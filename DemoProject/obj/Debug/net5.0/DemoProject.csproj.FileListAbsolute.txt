@@ -1,0 +1,16 @@
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.exe
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.deps.json
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.runtimeconfig.json
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.runtimeconfig.dev.json
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.dll
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\ref\DemoProject.dll
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.pdb
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.AssemblyInfo.cs
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.dll
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\ref\DemoProject.dll
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.pdb
+C:\Users\Andrian Putra\Desktop\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.genruntimeconfig.cache
